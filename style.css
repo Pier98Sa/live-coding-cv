@@ -1,0 +1,9 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+header{
+    text-align: center;
+    background-color: #ededed;
+    border-bottom: solid 2px #cf8a05;
+}
